@@ -1,3 +1,3 @@
 # lightBulbProgram
 
-https://github.com/miloosterman/lightBulbProgram/blob/main/instructions.jpg
+<img src="https://github.com/miloosterman/lightBulbProgram/blob/main/instructions.jpg">
